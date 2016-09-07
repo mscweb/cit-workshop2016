@@ -30,6 +30,8 @@ Sample .json file:
 
 Edit the new file's properties and set Copy to Output Directory to Copy always.
 
+Rebuild/Run the project
+
 Commit and Push your Changes
 
 ```
