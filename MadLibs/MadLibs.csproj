@@ -60,6 +60,9 @@
     <None Include="Content\brent.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="Content\Karl.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Content\kylel.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
